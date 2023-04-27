@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MyBikeStore/static/css/main.8c13ca89.css",
+    "main.js": "/MyBikeStore/static/js/main.128a76f7.js",
+    "static/media/bike9.png": "/MyBikeStore/static/media/bike9.b0c35dbc1a2e026fcfcc.png",
+    "static/media/bike3.jpg": "/MyBikeStore/static/media/bike3.9a1b19ee56996cb0c505.jpg",
+    "static/media/bike7.png": "/MyBikeStore/static/media/bike7.42b178c8eea730c52a1c.png",
+    "static/media/bike5.png": "/MyBikeStore/static/media/bike5.81d8f8c1031650c6cb2f.png",
+    "static/media/bike11.jpg": "/MyBikeStore/static/media/bike11.65c1b765e792654c5dce.jpg",
+    "static/media/helmet5.jpg": "/MyBikeStore/static/media/helmet5.8176be06c4d87b997d75.jpg",
+    "static/media/bike8.png": "/MyBikeStore/static/media/bike8.ef08ca7f8337d982b47c.png",
+    "static/media/bike6.png": "/MyBikeStore/static/media/bike6.9de07ee427d0b850a5ed.png",
+    "static/media/bikeLOGO.gif": "/MyBikeStore/static/media/bikeLOGO.226a24a2f42a95e2789a.gif",
+    "static/media/helmet1.webp": "/MyBikeStore/static/media/helmet1.868a867e39649c3cdf96.webp",
+    "static/media/bike4.jpeg": "/MyBikeStore/static/media/bike4.5a7729a624e5d5fe8060.jpeg",
+    "static/media/helmet3.jpeg": "/MyBikeStore/static/media/helmet3.6dcbdbf460f9b1233766.jpeg",
+    "static/media/bike10.jpg": "/MyBikeStore/static/media/bike10.6c23c655c4e5588d5e31.jpg",
+    "static/media/bike12.webp": "/MyBikeStore/static/media/bike12.0179d96059891260fc6f.webp",
+    "static/media/botHold1.jpg": "/MyBikeStore/static/media/botHold1.0b2bb395959b5464a1fb.jpg",
+    "static/media/botHold3.jpg": "/MyBikeStore/static/media/botHold3.0657d583bb06779ea290.jpg",
+    "static/media/helmet4.jpg": "/MyBikeStore/static/media/helmet4.6f4ab6362531188f2afb.jpg",
+    "static/media/botHold2.jpg": "/MyBikeStore/static/media/botHold2.0483a3a54bcd7d891ab2.jpg",
+    "static/media/helmet6.webp": "/MyBikeStore/static/media/helmet6.35e525d1f942580ca083.webp",
+    "static/media/bike1.webp": "/MyBikeStore/static/media/bike1.db554c9a03af3fdd05d9.webp",
+    "static/media/helmet2.webp": "/MyBikeStore/static/media/helmet2.63a606e5eb0fa58789c0.webp",
+    "index.html": "/MyBikeStore/index.html",
+    "main.8c13ca89.css.map": "/MyBikeStore/static/css/main.8c13ca89.css.map",
+    "main.128a76f7.js.map": "/MyBikeStore/static/js/main.128a76f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c13ca89.css",
+    "static/js/main.128a76f7.js"
+  ]
+}
