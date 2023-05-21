@@ -1,0 +1,111 @@
+#shop{
+    /* width:fit-content; */
+    /* border:#000 2px solid; */
+    /* margin:auto; */
+    padding-top: 90px;
+    text-align: center;
+}
+
+#shop h1{
+    font-size:x-large;
+}
+
+
+#input-updates{
+    margin: auto;
+    width: 600px;
+    margin-bottom: 20px;
+    /* background-color:blue; */
+    z-index: 10;
+}
+#NoOfAvailableProd0{
+    color: white;
+    font-size: small;
+    max-width: 60px;
+    min-width:60px
+}
+#NoOfAvailableProd{
+    color: blue;
+    font-size: small;
+    max-width: 60px;
+    min-width:60px
+}
+#searchbar{
+    border: 1px blue solid;
+    margin:20px;
+    /* margin-bottom:px; */
+    border-radius: 3px;
+}
+
+#searchBtn{
+    border: 1px gray solid;
+    padding: 4px;
+    margin-left:5px;
+    border-radius: 3px;
+}
+
+#searchBtn:hover{
+    padding: 4.5px;
+    background-color: rgb(216, 214, 214);
+    box-shadow: rgba(0,0,0,0.1) 1px 5px 5px ;
+    transition: 0.3s ease;
+}
+
+#shop-products{
+    /* background-color: black; */
+    /* width: 100%; */
+    /* border: 1px solid rgb(40, 75, 231); */
+    box-shadow: rgba(40,75,231,0.64) 0px 0px 25px;
+    border-radius: 10px;
+    width:80%;
+    margin: auto;
+    height:fit-content;
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr 4fr;
+    place-items: center;
+}
+
+@media screen and (max-width:1600px) {
+    #shop-products{
+        /* background-color: black; */
+        /* width: 100%; */
+        /* border: 1px solid rgb(40, 75, 231); */
+        border-radius: 5px;
+        width:80%;
+        margin: auto;
+        height:fit-content;
+        display: grid;
+        grid-template-columns: 3fr 3fr 3fr ;
+        place-items: center;
+    }
+}
+@media screen and (max-width:1250px) {
+    #shop-products{
+        /* background-color: black; */
+        /* width: 100%; */
+        /* border: 1px solid rgb(40, 75, 231); */
+        border-radius: 5px;
+        width:80%;
+        margin: auto;
+        height:fit-content;
+        display: grid;
+        grid-template-columns: 2fr 2fr ;
+        place-items: center;
+    }
+}
+
+@media screen and (max-width:800px) {
+    #shop-products{
+        /* background-color: black; */
+        /* width: 100%; */
+        border: 1px solid rgb(40, 75, 231);
+        border-radius: 5px;
+        width:80%;
+        margin: auto;
+        height:fit-content;
+        display: grid;
+        grid-template-columns: 1fr  ;
+        place-items: center;
+    }
+  
+}

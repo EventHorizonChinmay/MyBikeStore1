@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+img{
+    @apply max-h-40 w-48 object-scale-down m-auto p-1 align-middle 
+}

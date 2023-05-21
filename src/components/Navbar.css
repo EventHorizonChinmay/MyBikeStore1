@@ -1,0 +1,27 @@
+#navbar{
+    background-color:  rgb(96, 96, 209);
+    align-items: center;
+    /* z-index: +10; */
+    width:100%;
+    position: fixed;
+    /* margin-top: -20px; */
+    margin-bottom: 50px;
+    z-index: 10;
+    box-shadow: rgba(0,0,0,0.8) 0.2px 2px 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    /* margin-bottom: 12px; */
+}
+
+#logo #logoImg{
+    /* background-color: aquamarine; */
+    /* border-radius: 50%; */
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    height: 50px;
+    width: auto;
+
+}
